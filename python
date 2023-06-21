@@ -4,3 +4,6 @@ import random
 from tkinker import messagebox
 
 root = tk.Tk()
+root.title('Aceitas?')
+root.geometry('600x600')
+root.configure(background='#ffc8dd')
