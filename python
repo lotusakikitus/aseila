@@ -2,3 +2,5 @@ import tkinker as tk
 from tkinker import *
 import random
 from tkinker import messagebox
+
+root = tk.Tk()
